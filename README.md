@@ -11,8 +11,8 @@
 
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [無名の主页](https://www.imsyy.top)
-- [無名の主页 - 备用线路](https://home-imsyy.vercel.app/)
+- [南宇の主页](https://nan_y.gitee.io/home/)
+- [南宇の主页 - 备用线路](https://nan_y.gitee.io/home/)
 
 ### 功能
 
